@@ -40,7 +40,7 @@ Either create an Issue, or fork this repo and create a pull request. For new ent
 
 * [Bonga na Mzalendo](https://mzalendo.com/bonga/) (_⚠️ seems outdated_): send feedback about proposed bills or other discussion topics by sms.
 * [Mzalendo Dokeza](https://dokeza.mzalendo.com): Dokeza aims to facilitate and enhance public participation in lawmaking. The Constitution of Kenya 2010 in Art. 118 requires public participation in all governance processes including legislation. Mzalendo through Dokeza intends to bridge the public participation gap by providing Kenyans especially those online a platform where they can inform law making and have their views presented in Parliament as a memoranda.
-* [RECALL.KE](https://recall.ke) (‼️Site has been found to be insecure; user profile data may be compromised): Recall your member of national assembly.
+* [RECALL.KE](https://recall.ke) (_‼️Site has been found to be insecure; user profile data may be compromised. ⚠️ Currently, reasons given for recalls might not hold up to legal requirements, which are quire specific._): Recall your member of national assembly.
 
   
 ## Transparency 
