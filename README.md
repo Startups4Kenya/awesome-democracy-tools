@@ -19,7 +19,7 @@ A list of awesome democracy tools, especially for application in Kenya
 ## Corruption
 
 * [Corrupt Politicians GPT](https://chatgpt.com/g/g-MVyroWjCS-corrupt-politicians-gpt): Type a name and see all corruption cases associated with the politician.
-* [Mandera County Misuse of Allocated Funds Summary](https://chatgpt.com/g/g-e99Bd4xC1-mandera-county-misuse-of-allocated-funds-summary): Summarizes misuse of funds in Mandera County.
+* [Mandera County Misuse of Allocated Funds Summary GPT](https://chatgpt.com/g/g-e99Bd4xC1-mandera-county-misuse-of-allocated-funds-summary): Summarizes misuse of funds in Mandera County.
 
 ## Event Crowdsourcing
 
