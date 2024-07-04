@@ -1,6 +1,12 @@
 # awesome-democracy-tools
 A list of awesome democracy tools, especially for application in Kenya
 
+## Hot to Contribute
+
+Either create an Issue, or fork this repo and create a pull request. For new entries, make sure to include name, category, link, short description (preferably copied from the tool/site itself), as well as remarks about security warnings, outdated or non-working state, etc.
+
+# Tools List
+
 ## Table of Contents
 
 * [Accountability](#accountability)
